@@ -3,4 +3,4 @@ def instantiate_new_array
   return new_array
 end
 
-def first
+def first_element
