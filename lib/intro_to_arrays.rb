@@ -19,4 +19,4 @@ def last_element(finalFlash)
   finalFlash[-1]
 end
 
-def 
+def first_element_with
