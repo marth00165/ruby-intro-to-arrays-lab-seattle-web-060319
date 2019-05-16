@@ -27,4 +27,7 @@ def last_element_with_array_methods(superSaiyen)
   superSaiyen.last
 end
 
-def length_of_array
+def length_of_array(majinVegeta)
+  majinVegeta.length
+end
+
