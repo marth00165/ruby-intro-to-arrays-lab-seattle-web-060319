@@ -15,4 +15,8 @@ def third_element(bigBang)
   bigBang[2]
 end
 
+def last_element(finalFlash)
+  finalFlash[-1]
+end
+
 def 
