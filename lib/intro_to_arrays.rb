@@ -7,8 +7,11 @@ def array_with_two_elements
   array_with_two_elements = ["Goku", "Vegeta"]
 end
 
-def first_element(array)
-  array[0]
+def first_element(kamehameha)
+  kamehameha[0]
 end
 
-def 
+def third_element(bigBang)
+  bigBang[2]
+end
+
