@@ -6,3 +6,4 @@ end
 def first_element(array)
   array[0]
 end
+
