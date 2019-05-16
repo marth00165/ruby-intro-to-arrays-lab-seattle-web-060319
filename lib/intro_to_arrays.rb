@@ -27,4 +27,4 @@ def last_element_with_array_methods(superSaiyen)
   superSaiyen.last
 end
 
-def 
+def length_of_array
