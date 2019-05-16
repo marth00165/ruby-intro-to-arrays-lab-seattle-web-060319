@@ -1,6 +1,6 @@
 def instantiate_new_array
-  new_array = []
-  return new_array
+  dragonBallZ = []
+  return dragonBallZ
 end
 
 def array_with_two_elements
